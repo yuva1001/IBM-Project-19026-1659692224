@@ -1,5 +1,4 @@
 ![Ibm](https://user-images.githubusercontent.com/86821280/200911167-667c810c-c7a4-42ed-ad6c-b9c539ad671a.jpg)
-
 IBM-Project-19026-1659692224
 
 Domain : Artificial Intelligence Project: A Novel Method for Handwritten Digit Recognition System
