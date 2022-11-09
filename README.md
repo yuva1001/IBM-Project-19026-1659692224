@@ -1,4 +1,4 @@
-![ibm](https://user-images.githubusercontent.com/86821280/200910497-6d7ee804-6e14-4dd6-9c50-70ab1695ced0.svg)
+![Ibm](https://user-images.githubusercontent.com/86821280/200911167-667c810c-c7a4-42ed-ad6c-b9c539ad671a.jpg)
 
 IBM-Project-19026-1659692224
 
